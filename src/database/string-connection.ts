@@ -1,1 +1,0 @@
-export const MONGO_URL = `mongodb+srv://shortener-api:YHelWJQuUSutq16v@url-shortener-dio.nnkii.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
